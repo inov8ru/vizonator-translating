@@ -1,0 +1,3 @@
+files:
+  - source: /ltmp_ru.js
+    translation: /ltmp_%two_letters_code%.js
